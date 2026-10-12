@@ -1,1 +1,2 @@
-# MSc Biotechnology & Computational Biology at KCL, interested in bioinformatics and computational biology, currently learning Python, Git and Linux.
+# Rosalind Solutions
+My Python solutions to bioinformatics problems from rosalind.info.
